@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=white":{"model": "cm:ColoredWood0"},
+        "variant=orange":{"model": "cm:ColoredWood1"},
+        "variant=magenta":{"model": "cm:ColoredWood2"},
+        "variant=lightblue":{"model": "cm:ColoredWood3"},
+        "variant=yellow":{"model": "cm:ColoredWood4"},
+        "variant=limegreen":{"model": "cm:ColoredWood5"},
+        "variant=pink":{"model": "cm:ColoredWood6"},
+        "variant=grey":{"model": "cm:ColoredWood7"},
+        "variant=lightgrey":{"model": "cm:ColoredWood8"},
+        "variant=cyan":{"model": "cm:ColoredWood9"},
+        "variant=purple":{"model": "cm:ColoredWood10"},
+        "variant=blue":{"model": "cm:ColoredWood11"},
+        "variant=brown":{"model": "cm:ColoredWood12"},
+        "variant=darkgreen":{"model": "cm:ColoredWood13"},
+        "variant=red":{"model": "cm:ColoredWood14"},
+        "variant=black":{"model": "cm:ColoredWood15"}
+    }
+}
